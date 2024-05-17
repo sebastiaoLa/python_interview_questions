@@ -1,12 +1,14 @@
-# Вопросы для подготовки к Python Developer интервью
+# Perguntas para a entrevista desenvolvedor Python
 
 ## Disclaimer
 
-Ответы на вопросы собирал давно и с попеременным успехом.
-Где-то могут быть неточности, где-то откровенный бред (особенно в разделе про БД). Источники также выбирались не очень переборчиво.
-Часть ссылок на источники может быть не указана по причине забывчивости или просто случайно была утеряна.
-Владелец этого репозитория не несет ответственности за ущерб причиненный содержимым этого репозитория,
-работой Python-разработчика и работой как таковой.
+Este repositório é apenas uma tradução do repositório que originou o fork.
+### Disclaimer
+Venho coletando respostas para as perguntas há muito tempo e com sucesso variável.
+Em algum lugar pode haver imprecisões, em algum lugar pode haver um absurdo total (especialmente na seção sobre DB). As fontes também foram escolhidas de forma não muito seletiva.
+Algumas das referências às fontes podem ter sido omitidas por esquecimento ou simplesmente perdidas por acidente.
+O proprietário deste repositório não é responsável por nenhum dano causado pelo conteúdo deste repositório,
+o trabalho do desenvolvedor do Python ou o trabalho em si.
 
 ## Собственно вопросы
 
